@@ -1,0 +1,20 @@
+{
+    "quokka.automaticRestart": true,
+    "notebook.defaultFormatter": "njpwerner.autodocstring",
+    "quokka.automaticStartRegex": "\"quokka.automaticStartRegex\": \"\"",
+    "quokka.rollBackToPreviousGenerationUI": true,
+    "quokka.showValueOnMultilineSelection": true,
+    "quokka.lightTheme.system.decorationAttachmentRenderOptions": {
+        
+        "border": null,
+        "borderColor": null,
+        "fontStyle": null,
+        "fontWeight": null,
+        "textDecoration": null,
+        "color": "rgb(153, 153, 153)",
+        "backgroundColor": null,
+        "margin": "1.2em",
+        "width": null,
+        "height": null
+    }
+}
